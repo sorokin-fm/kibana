@@ -1,0 +1,12 @@
+# phpstorm project files
+.idea
+
+# composer vendor dir
+/vendor
+
+# Mac DS_Store Files
+.DS_Store
+
+
+# environmet variables
+.env
